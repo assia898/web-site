@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+header {
+    background-color: #1e3a5f;
+    color: white;
+    padding: 20px;
+}
+
+.banner {
+    background: url('https://source.unsplash.com/1600x900/?football,soccer') no-repeat center;
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content:font-size: 24px;
+    font-weight: bold;
+}
+
+.hosts {
+    margin: 50px 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #1e3a5f;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+} center;
+    color: white;
+.image-container{
+    background: url(qatqr.jpg) no-repeat center;
+    background-size: 100px;
+    height: 400px;
+    width: 100%;
+}
